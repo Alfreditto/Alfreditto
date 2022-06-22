@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Alfreditto
-- 👀 I’m interested in videogames
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Bienvenidos al repositorio tortuguil
+## Estudiante de programacion multiplataforma y amante de las tortugas
+## Aprendiendo Java, C# y Python
+
 
 <!---
 Alfreditto/Alfreditto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
