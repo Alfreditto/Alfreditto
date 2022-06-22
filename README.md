@@ -1,3 +1,4 @@
+![](C:\Users\Fanta\Documents\GitHub\Alfreditto\turtle.jpg)
 # Bienvenidos al repositorio tortuguil
 ## Estudiante de programacion multiplataforma y amante de las tortugas
 ## Aprendiendo Java, C# y Python
