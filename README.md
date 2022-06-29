@@ -4,7 +4,7 @@
 ## Amante de las tortugas
 ## Aprendiendo Java, C# y Python
 
-<img height="200" src="img/java.png" width="200"/> <img height="200" src="img/csharp.png" width="200"/> <img height="200" src="img/python.png" width="200"/>
+<img height="200" src="img/java.png" width="200"/> <img height="200" src="img/csharp.png" width="200"/> <img height="200" src="img/Python.png" width="200"/>
 
 ## Actualmente dando cursos de Unity de mano de [Juan Gabriel Gomila](https://github.com/joanby)
 ![](img/unity.png)
