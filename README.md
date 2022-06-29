@@ -4,7 +4,7 @@
 ## Amante de las tortugas
 ## Aprendiendo Java, C# y Python
 
-![](img\java.png) ![](img\csharp.png) ![](img/Python.png)
+![](img/java.png) ![](img/csharp.png) ![](img/Python.png)
 ## Actualmente dando cursos de Unity de mano de [Juan Gabriel Gomila](https://github.com/joanby)
 
 <!---
