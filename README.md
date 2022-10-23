@@ -1,7 +1,7 @@
 # Bienvenidos al repositorio tortuguil
-![](img/turtle%20(peque).jpg)
 ## Estudiante de programación multiplataforma en el [CIFP Virgen de Gracia](https://cifpvirgendegracia.com)
 ## Amante de las tortugas
+![Octocat](img/octocat-1666536899398.png)
 # ¿Nos tomamos un cafe? 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A4DVFYN)
 # 💻 Tech Stack:
