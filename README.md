@@ -1,5 +1,5 @@
 # Bienvenidos al repositorio tortuguil
-![](img/turtle%20(Peque%C3%B1a).jpg)
+![](img/turtle%20(peque).jpg)
 ## Estudiante de programación multiplataforma en el [CIFP Virgen de Gracia](https://cifpvirgendegracia.com)
 ## Amante de las tortugas
 # ¿Nos tomamos un cafe? 
